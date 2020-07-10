@@ -1,2 +1,6 @@
 # Microsoft--Undergraduate-Masters-Virtual-Internship-Platform
-all the work stuffs assignments provided by microsoft 
+All the work stuffs assignments provided by microsoft 
+
+- Dont't just copy paste to download the certificate
+- try to see for your self
+- good luck
